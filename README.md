@@ -1,2 +1,11 @@
-# redx
-{   "url": "https://your-domain.com",   "name": "REDX Staking",   "iconUrl": "https://your-domain.com/icon.png",   "termsOfUseUrl": "https://your-domain.com/terms",   "privacyPolicyUrl": "https://your-domain.com/privacy",   "redirectUrl": "https://your-domain.com",   "connectRequest": {     "permissions": ["tonClient", "tonConnect"]   } }
+{
+  "url": "https://v0-redx-staking-code-hjs7rw.vercel.app",
+  "name": "REDX Staking",
+  "iconUrl": "https://v0-redx-staking-code-hjs7rw.vercel.app/icon.png",
+  "termsOfUseUrl": "https://v0-redx-staking-code-hjs7rw.vercel.app/terms",
+  "privacyPolicyUrl": "https://v0-redx-staking-code-hjs7rw.vercel.app/privacy",
+  "redirectUrl": "https://v0-redx-staking-code-hjs7rw.vercel.app",
+  "connectRequest": {
+    "permissions": ["tonClient", "tonConnect"]
+  }
+}
